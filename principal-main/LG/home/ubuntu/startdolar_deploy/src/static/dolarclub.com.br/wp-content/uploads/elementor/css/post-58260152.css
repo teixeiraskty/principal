@@ -1,0 +1,11 @@
+.elementor-5826 .elementor-element.elementor-element-14404810{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-5826 .elementor-element.elementor-element-534617c6{width:initial;max-width:initial;}#elementor-popup-modal-5826{background-color:rgba(0,0,0,.8);justify-content:center;align-items:center;pointer-events:all;}#elementor-popup-modal-5826 .dialog-message{width:610px;height:auto;}#elementor-popup-modal-5826 .dialog-close-button{display:flex;top:9%;background-color:#FA0000;font-size:28px;}#elementor-popup-modal-5826 .dialog-widget-content{box-shadow:2px 8px 23px 3px rgba(0,0,0,0.2);}#elementor-popup-modal-5826 .dialog-close-button i{color:#FFFFFF;}#elementor-popup-modal-5826 .dialog-close-button svg{fill:#FFFFFF;}@media(max-width:767px){#elementor-popup-modal-5826 .dialog-message{width:335px;}#elementor-popup-modal-5826 .dialog-close-button{top:11%;}}/* Start custom CSS for html, class: .elementor-element-534617c6 */.pdf-container {
+  width: 100%;
+  margin: auto;
+}
+
+canvas {
+  width: 100%;
+  height: auto;
+  display: block;
+  margin-bottom: 10px; /*ajuste o espaçamento entre as páginas aqui*/
+}/* End custom CSS */
